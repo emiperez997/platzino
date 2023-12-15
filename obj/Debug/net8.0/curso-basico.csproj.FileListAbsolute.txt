@@ -1,0 +1,15 @@
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\bin\Debug\net8.0\curso-basico.exe
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\bin\Debug\net8.0\curso-basico.deps.json
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\bin\Debug\net8.0\curso-basico.runtimeconfig.json
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\bin\Debug\net8.0\curso-basico.dll
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\bin\Debug\net8.0\curso-basico.pdb
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\obj\Debug\net8.0\curso-basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\obj\Debug\net8.0\curso-basico.AssemblyInfoInputs.cache
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\obj\Debug\net8.0\curso-basico.AssemblyInfo.cs
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\obj\Debug\net8.0\curso-basico.csproj.CoreCompileInputs.cache
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\obj\Debug\net8.0\curso-basico.sourcelink.json
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\obj\Debug\net8.0\curso-basico.dll
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\obj\Debug\net8.0\refint\curso-basico.dll
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\obj\Debug\net8.0\curso-basico.pdb
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\obj\Debug\net8.0\curso-basico.genruntimeconfig.cache
+C:\Users\emipe\Programacion\Platzi\Backend con CSharp\curso-basico\obj\Debug\net8.0\ref\curso-basico.dll
